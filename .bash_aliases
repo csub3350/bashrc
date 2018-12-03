@@ -26,5 +26,5 @@
 		alias update='sudo yum -y update'
 		alias install='sudo yum install'
 		alias sudo='sudo '
-		alias vps='ssh t2noob@urbina.tk -YC'
+		alias vps='ssh -p 3350 aurbina@192.243.103.185 -YC'
 		alias odin='ssh aurbina@odin.cs.csub.edu -YC'
